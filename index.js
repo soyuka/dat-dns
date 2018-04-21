@@ -1,6 +1,5 @@
 var debug = require('debug')('dat')
 var dns = require('dns')
-var url = require('url')
 var https = require('https')
 var memoryCache = require('./cache')
 var maybe = require('call-me-maybe')
